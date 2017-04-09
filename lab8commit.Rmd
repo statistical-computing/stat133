@@ -1,0 +1,12 @@
+---
+title: "lab8commit1"
+author: "Michael Fermanian"
+date: "April 8, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Michael Fermanian Lab 8 "commit"
